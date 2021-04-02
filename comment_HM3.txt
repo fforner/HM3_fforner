@@ -1,5 +1,5 @@
 The data frame created present two differnet columns:
-    1- Company names
+    1- Company name
     2- Company Purpose
 
 By the side of the compnay name:
