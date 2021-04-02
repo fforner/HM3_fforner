@@ -1,0 +1,14 @@
+The data frame created present two differnet columns:
+    1- Company names
+    2- Company Purpose
+
+By the side of the compnay name:
+        - each company title with three name  or the "and" conjuction in it, has quotation puntation marks, as example:
+                "Austin, Walton and Grant"
+                "Salazar, Elliott and Mclaughlin"
+
+
+By the puropose side it is possible to see a commun line in term of phrase composition.
+Every phrase is characterize by:
+        - "What does the company do? What is the company" for "What is the final aim? what is the puropose?"
+        - Most of the phrases finish with the letter "S"
