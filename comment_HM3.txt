@@ -12,3 +12,6 @@ By the puropose side it is possible to see a commun line in term of phrase compo
 Every phrase is characterize by:
         - "What does the company do? What is the company" for "What is the final aim? what is the puropose?"
         - Most of the phrases finish with the letter "S"
+
+From the sentiment analysis part:
+		- Most of the results have a sentimetn score equal to 0
